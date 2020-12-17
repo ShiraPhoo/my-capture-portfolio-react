@@ -1,9 +1,10 @@
 import react from "react";
+import AboutUs from "./pages/AboutUs";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello I am Hyper Phoo!</h1>
+      <AboutUs />
     </div>
   );
 }
